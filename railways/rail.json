@@ -1,4 +1,5 @@
 {
-    "app_version" : "1", 
-    "stop_use" : "No"
+    "app_version" : 3,       
+    "stop_use" : false,  
+    "comments" : "Use integer for app version (and strictly increase it) and boolean for stop use otherwise it will not work"
 }
